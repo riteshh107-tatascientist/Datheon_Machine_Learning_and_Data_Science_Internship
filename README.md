@@ -90,15 +90,6 @@ pip install numpy pandas matplotlib seaborn scikit-learn jupyterlab xgboost
 
 Open each notebook in Jupyter Notebook, JupyterLab, or Google Colab and run all cells from top to bottom. Internet access may be required to download datasets.
 
-## Validation Before Submission
-
-- Run each submitted notebook without errors.
-- Save notebooks with actual outputs, metrics, and plots.
-- Confirm dataset sources and file paths work.
-- Ensure every notebook mentioned above is actually present.
-- Replace the Task 1 placeholder with its exact title and findings.
-- Do not include fabricated scores or unverified results.
-- Never upload passwords, API keys, or private data.
 
 ## Project Notes
 
